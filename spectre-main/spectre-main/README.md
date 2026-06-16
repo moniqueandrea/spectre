@@ -1,5 +1,6 @@
 # CAHIER DES CHARGES FONCTIONNEL & TECHNIQUE
-## Projet : SPECTRE
+## Projet : SPECTRE <img width="843" height="634" alt="image" src="https://github.com/user-attachments/assets/4b2b3a50-82d4-469a-b5af-45334276504d" />
+
 Sous-titre : Système de Pilotage Évolué du Cycle de vie et du Traitement des Réparations d’Équipements
 Thématique Cohorte : Cameroun 2030 — Le numérique au service du quotidien
 Livrable : Fiche d'Atelier (Section 4) — Projet Individuel
