@@ -33,7 +33,7 @@ export interface Employee {
 }
 
 # 10. Stack technique
-##a
+## a
 
  * Framework Frontend : Angular 19+ (Architecture moderne basée sur les composants *Standalone*, garantissant la légèreté et la rapidité de chargement des fichiers).
  * Gestion d'état & Asynchronisme : RxJS via l'usage exclusif de BehaviorSubject au sein des services Angular pour maintenir un état applicatif réactif, fluide et immuable.
