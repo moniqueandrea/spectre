@@ -1,4 +1,4 @@
-"# mon projet - Cameroun" 
+# mon projet - Cameroun" 
 internalInventoryTag: string;  // Tag d'inventaire propre à l'entreprise (ex: SPT-2026-045)
   brand: string;
   model: string;
@@ -8,6 +8,7 @@ internalInventoryTag: string;  // Tag d'inventaire propre à l'entreprise (ex: S
   addedAt: string;               // ISO Date String
   lastUpdatedAt: string;         // ISO Date String pour la résolution des conflits
 }
+
 
 export interface MaintenanceTicket {
   id: string;                    // UUID v4
@@ -31,7 +32,9 @@ export interface Employee {
   role: 'ADMIN' | 'TECHNICIAN' | 'USER';
 }
 
-### 10. Stack technique
+# 10. Stack technique
+##a
+
  * Framework Frontend : Angular 19+ (Architecture moderne basée sur les composants *Standalone*, garantissant la légèreté et la rapidité de chargement des fichiers).
  * Gestion d'état & Asynchronisme : RxJS via l'usage exclusif de BehaviorSubject au sein des services Angular pour maintenir un état applicatif réactif, fluide et immuable.
  * Design & UI : Tailwind CSS pour concevoir une interface utilitaire, épurée, minimaliste au niveau du poids des fichiers et entièrement adaptative (*Mobile-First*).
